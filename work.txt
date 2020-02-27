@@ -1,0 +1,20 @@
+传统运维
+1，nginx技术（负载均衡,url,location,http）
+2, linux
+    shell
+    优化
+ 
+3, network
+     tcp , udp , 网络流量
+ 
+4, mysql 
+   备份与恢复
+ 
+-----------------
+5, docker 
+
+6, kubernetes
+
+7, python
+ 
+ 
