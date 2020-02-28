@@ -1,3 +1,14 @@
+
+面试方向：
+发展方向：
+ 容器平台运维: kubernetes , helm , ansible ,etcd
+ devops: ci/cd , jenkins , pipeline , 微服务，shell脚本，
+ 监控：prometheus,zabbix
+基础运维及面试题：
+
+ 
+ 
+
 传统运维
 1，nginx技术（负载均衡,url,location,http）
 2, linux
